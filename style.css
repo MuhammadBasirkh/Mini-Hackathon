@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(243, 238, 238);
+}
+.login{
+    
+    margin-left: 48rem;
+}
+.header{ 
+       
+    height: 20px;
+    margin-left: 13rem;
+}
+.color{
+    
+    background-color: blueviolet;
+}
+.ulcolor li a{
+    color: white;
+}
+.height a{
+    color: white;
+}
+.head{
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 13rem;
+}
+.container1{
+    margin-left: 200px;
+    width: 200px;
+}
+.margin{
+    margin-bottom:1rem ;
+}
+.display{
+
+    border-radius: 5px;
+    color: white;
+    background-color: blueviolet;
+    margin-left: 3rem;
+}
+.signcon{
+    width: 400px;
+    height: 70vh;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 500px;
+    padding-top: 80px;
+}
+.logincon{
+    
+        width: 400px;
+        height: 45vh;
+        background-color: white;
+        margin-top: 60px;
+        margin-left: 500px;
+        padding-top: 80px;
+    
+}
+.width{
+    width: 290px;
+}
+.inputsignup{
+    width: 300px;
+  margin-left: 40px;
+
+   
+}
+.button1{
+    margin-top: 10px;
+    margin-left: 150px;
+    background-color: #612be0;
+}
